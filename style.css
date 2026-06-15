@@ -1,0 +1,52 @@
+
+*{
+    background-color:blanchedalmond;
+}
+
+
+h1{
+    color:brown; ;
+    text-align: center;
+    font-family : pacifico , playfair display;
+    font-size: 50px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 10px;
+    text-align: center;
+}
+h2{
+    border-bottom: 10px solid brown;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 600px;
+}
+
+
+
+<h1> Menu</h1>
+    <h2>coffee</h2>
+    <br>
+    <img src="https://www.sharmispassions.com/wp-content/uploads/2012/07/espresso-coffee-recipe04-500x500.jpg" width="300"
+   <br>
+   <p>Espresso - 35$</p>
+    <br>
+    <img src="https://www.brighteyedbaker.com/wp-content/uploads/2024/07/Dulce-de-Leche-Latte-Recipe.jpg" width="300"
+    <br>
+    <p>Latte - 4$</p>
+    <br>
+    <img src="https://recettes.vedrenne.fr/1269-large_default/gingerbread-cappuccino.jpg" width="300"
+   <br>
+
+    <p>Cappuccino - 5$</p>
+   
+     <br>
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN8_YkQf0IogwfH54rgLg7fi09FOmuUvRrA6hEDZlEihNah9wEuPviJlY&s=10" width="300"
+      <br>
+
+    <p>Mocha - 6$</p>
+     <br>
